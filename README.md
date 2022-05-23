@@ -137,3 +137,15 @@ Lo primero de todo antes de proceder a la instalación de Windows 10 en VirtualB
 <p align="center">
   <img src="https://user-images.githubusercontent.com/103035621/169861563-dac864d4-83e6-4568-abf6-dc1814f22d07.PNG">
 </p>
+
+26. A continuación se ha de seleccionar la región.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/169862592-ca27290d-a274-482d-9074-9c8032245f94.PNG">
+</p>
+
+27. Se añade la distribución de teclado que se desea utilizar en Windows.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/169862665-08c52295-0bd1-4a94-a497-8d974ff6d315.PNG">
+</p>
