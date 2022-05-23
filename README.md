@@ -1,3 +1,6 @@
+# Instalación y Configuración Windows 10
+
+
 Lo primero de todo antes de proceder a la instalación de Windows 10 en VirtualBox será acceder a la página oficial de Microsoft y descargar la herramienta de creación de medios, la cual ofrece la posibilidad de obtener la imagen ISO de Windows 10. El siguiente paso consisitirá en la descarga de Oracle Virutal Box y su instalación. A continuación se proseguirá con los siguientes pasos.
 
 1. Se ha de abrir Oracle Virtual Box, a continuación se ha de presionar el botón "Nuevo" para crear una nueva máquina virtual.
