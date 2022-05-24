@@ -1,5 +1,9 @@
 # Instalación y Configuración Windows 10
 
+Herramientas utilizadas:
+
+<a href="https://www.virtualbox.org/">- Oracle VirtualBox</a><br>
+<a href="https://www.microsoft.com/es-es/software-download/windows10">- Windows 10 ISO</a>
 
 Lo primero de todo antes de proceder a la instalación de Windows 10 en VirtualBox será acceder a la página oficial de Microsoft y descargar la herramienta de creación de medios, la cual ofrece la posibilidad de obtener la imagen ISO de Windows 10. El siguiente paso consisitirá en la descarga de Oracle Virutal Box y su instalación. A continuación se proseguirá con los siguientes pasos.
 
@@ -152,3 +156,131 @@ Lo primero de todo antes de proceder a la instalación de Windows 10 en VirtualB
 <p align="center">
   <img src="https://user-images.githubusercontent.com/103035621/169862665-08c52295-0bd1-4a94-a497-8d974ff6d315.PNG">
 </p>
+
+28. Se selecciona el tipo de organización a la que pertenecerá el equipo.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170004048-d5e3b299-e8e2-4eeb-ba98-9ce491a718d7.PNG">
+</p>
+
+29. Se añade la cuenta de hotmail o se selecciona cuenta sin conexión, dicha opción permite tener una cuenta sin vincular con el correo electronico.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170004195-e64f6632-508a-4662-8886-9eba5d8e39eb.PNG">
+</p>
+
+30. Se define el nombre de usuario.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170004552-bb53a210-7fbe-4c61-8fe7-b1206647b764.PNG">
+</p>
+
+31. Se define la contraseña del usuario.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170004688-0b338fe2-21e8-49c6-bc7f-c9c5bf1536ec.PNG">
+</p>
+
+32. Se selecciona la compartición de ubicación con microsoft.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170004913-4e0428cb-f857-4d03-81b2-7d999e32ab02.PNG">
+</p>
+
+33. Se selecciona la opción deseada en eonctrar mi dispositivo.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170005231-df62a006-bcec-4b7f-bf12-c0990220cdc0.PNG">
+</p>
+
+34. Se selecciona el envio de datos diagnósticos a microsoft.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170005436-3155d0ae-7245-45b4-ae44-bc070f739086.PNG">
+</p>
+
+35. Se selecciona la definición de entradas manuscritas.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170005640-50b46399-b8cb-479c-af9c-36114f5eb77f.PNG">
+</p>
+
+36. Se selecciona la obtención de experiencias personalizadas según el diagnóstico realizado.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170005952-2651225d-324d-4196-856e-2175a0592bed.PNG">
+</p>
+
+37. Se selecciona que las aplicaciones usen el id de la publicidad.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170006488-46eebb78-42e2-48ca-895c-a0d7268def1c.PNG">
+</p>
+
+38. Se selecciona la personalización de la experiencia de usuario.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170006684-5eb0a59d-d5f0-461f-8362-d46c0c9cafcf.PNG">
+</p>
+
+39. Se selecciona la opción de cortana, se puede tanto aceptar como no aceptar.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170007122-5826e039-8f42-43de-9a55-511e780c13f4.PNG">
+</p>
+
+40. Se configurará el sistema operativo, este este paso habrá que esperar a que se apliquen los cambios y se muestre el escritorio de Windows 10.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170007358-a6ec9a97-45a4-483a-9aaf-6bd9e5b26e8e.PNG">
+</p>
+
+41. A continuación se muestra por fin el escritorio de Windows 10.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170007832-55880796-d0f5-4f78-bb9d-2fb6e88811ae.PNG">
+</p>
+
+42. Para proseguir se realizarán configuraciones básicas de rendimiento para optimizar el funcionamiento del sistema operativo. Lo primero de todo será quitar todos los add-on de la barra de navegación, todos los componentes que sean extras consumen memória.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170008245-c72ff6c8-be0b-46c1-9aa1-fef76ec3e761.PNG">
+</p>
+
+43. Se deshabilitará la barra de búsquedas y navegación, para ello se pulsará botón derecho en la barra de navegación y se pulsará en el botón de ocultar.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170008543-72387627-4a17-49db-95f5-d696fd9d412c.PNG">
+</p>
+
+44. El siguiente paso será ocultar el botón de cortana, para ello se pulsará el botón derecho en la barra de herramientas y se quitará la marcación del botón de cortana.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170008834-ee95288a-60a1-4524-a874-db1869c3a961.PNG">
+</p>
+
+45. A continuación se parametrizarán las propiedades de sistema para aumentar el rendimiento, para ello se ha de pulsar en el icono de la carpeta en la barra de herramientas, este equipo, propiedades del sistema.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170010435-8273370b-d842-4075-a675-6d403c0c2f97.PNG">
+</p>
+
+46. Se presionará la opción de "Configuración avanzada de sistema" en la parte inferior de la ventana.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170010837-0d1bbc03-36b0-49d8-9ac9-f8b8facf6750.PNG">
+</p>
+
+47. Se configurará el rendimiento del sistema e, la pestaña de "Opciones avanzadas", rendimiento, botón configuración, se abrirán las opciones de configuración y en la pestaña de efectos visuales se seleccionará la opción ajustar para un mejor rendimiento, se aplicarán cambios y se aceptará este proceso.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170011259-1b43ae75-b4a5-4b32-b11b-448ff7cda108.PNG">
+</p>
+
+Una vez configurado el rendmiento básico del sistema operativo faltará instalar las aplicaciones necesarias para su utilización, es recomendable para no perder tiempo utilizar herramientas de instalación de software automatizado, uno de ellos es "NINITE" en el que se podrán seleccionar los diferentes programas a instalar, se presionará el botón de descargar y se obtendrá un instalador, se ejecuta y automáticamente se instalarán las aplicaciones.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103035621/170011752-6245930e-a0cc-4ab2-928c-813af87ff980.png">
+</p>
+
+* Imagen obtenida del búscador.
